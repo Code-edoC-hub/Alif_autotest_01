@@ -1,0 +1,11 @@
+
+    Status: 200
+
+
+    Headers: {'Date': 'Thu, 25 Sep 2025 05:38:12 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '79', 'Connection': 'keep-alive', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'X-Logging': 'False', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload'}
+
+
+    Body: {"id":"","cart_items":[],"moderated_cart_items":[],"total_items_count":0,"total_items_price":0,"delivery_price":0,"total_price":0}
+
+
+    

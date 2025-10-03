@@ -1,0 +1,14 @@
+
+    Method: GET
+
+
+    URL: https://gw.alifshop.uz/web/client/cart/view-cart/duplicate
+
+
+    Headers: {'User-Agent': 'python-requests/2.32.5', 'Accept-Encoding': 'gzip, deflate, br', 'Accept': '*/*', 'Connection': 'keep-alive', 'Cookie': 'cart=CfDJ8MImoHrCrTpFs4mbyO1FQC48UXxfNwCLFab4J3yqN32%2BB98jp6VGHm7qvZ%2BhL%2F4frMf8rvoj8PuYlC%2BhoowNsh5yFgBJXGHsyz9TWro5%2Fbf0xBNnTyAZpEEwPu3sqznORahHqgW%2BFYeA%2Fow%2FJvQlgGDcyv6FODij5rq%2FyIMAkc0K;'}
+
+
+    Body: None
+
+
+    

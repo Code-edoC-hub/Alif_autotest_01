@@ -1,0 +1,14 @@
+
+    Method: DELETE
+
+
+    URL: https://gw.alifshop.uz/web/client/cart/moderated-items/ad08d811-e10b-466b-a96a-0708d9c6fe43
+
+
+    Headers: {'User-Agent': 'python-requests/2.32.5', 'Accept-Encoding': 'gzip, deflate, br', 'Accept': '*/*', 'Connection': 'keep-alive', 'Cookie': 'cart=CfDJ8MImoHrCrTpFs4mbyO1FQC6bwYARfaGoj0qzEvk%2FmKbDvBxCu7lv6m179gZAuVAjzLfqJ9vHpXjQ6LVdNhK1dn%2Fp5lGeQiDsqGn02RvyYSO2k0ejR7BpGOBBn4kVJTlxfIBu87gnfRjmdDVnhhmigs8MxFeREPnTUMkMaccJoyAu;', 'Content-Length': '0'}
+
+
+    Body: None
+
+
+    
