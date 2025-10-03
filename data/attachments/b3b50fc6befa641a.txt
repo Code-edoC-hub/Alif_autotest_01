@@ -1,0 +1,11 @@
+
+    Status: 200
+
+
+    Headers: {'Date': 'Tue, 30 Sep 2025 05:27:02 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '79', 'Connection': 'keep-alive', 'Cache-Control': 'no-store, no-cache', 'Content-Encoding': 'br', 'Expires': '-1', 'Pragma': 'no-cache', 'Set-Cookie': 'cart=CfDJ8MImoHrCrTpFs4mbyO1FQC6bwYARfaGoj0qzEvk%2FmKbDvBxCu7lv6m179gZAuVAjzLfqJ9vHpXjQ6LVdNhK1dn%2Fp5lGeQiDsqGn02RvyYSO2k0ejR7BpGOBBn4kVJTlxfIBu87gnfRjmdDVnhhmigs8MxFeREPnTUMkMaccJoyAu; path=/; secure; samesite=none; httponly', 'Vary': 'Accept-Encoding', 'X-Logging': 'False', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload'}
+
+
+    Body: {"id":"","cart_items":[],"moderated_cart_items":[],"total_items_count":0,"total_items_price":0,"delivery_price":0,"total_price":0}
+
+
+    

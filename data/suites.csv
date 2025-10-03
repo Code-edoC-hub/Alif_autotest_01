@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1513","add_item","Main","Fri Oct 03 15:16:58 UTC 2025","passed","Fri Oct 03 15:16:59 UTC 2025","","Checking","",""
+"","951","cart_check","Main","Fri Oct 03 15:16:59 UTC 2025","passed","Fri Oct 03 15:17:00 UTC 2025","","Checking","",""
+"","1293","get_active_items","Main","Fri Oct 03 15:16:56 UTC 2025","passed","Fri Oct 03 15:16:57 UTC 2025","","Checking","",""
+"","1042","free_cart","Main","Fri Oct 03 15:17:01 UTC 2025","passed","Fri Oct 03 15:17:02 UTC 2025","","Checking","",""
+"","740","get_session_id","Main","Fri Oct 03 15:16:57 UTC 2025","passed","Fri Oct 03 15:16:58 UTC 2025","","Checking","",""
+"","571","minus_tovar","Main","Fri Oct 03 15:17:00 UTC 2025","passed","Fri Oct 03 15:17:01 UTC 2025","","Checking","",""

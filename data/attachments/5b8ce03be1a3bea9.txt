@@ -1,0 +1,14 @@
+
+    Method: PATCH
+
+
+    URL: https://gw.alifshop.uz/web/client/cart/moderated-items/quantity
+
+
+    Headers: {'User-Agent': 'python-requests/2.32.5', 'Accept-Encoding': 'gzip, deflate, br', 'Accept': '*/*', 'Connection': 'keep-alive', 'Cookie': 'cart=CfDJ8MImoHrCrTpFs4mbyO1FQC7A4F86K6GjOvSeTKXuHLJB2KYLO6Yx2vSv6ZJbo6RWI0AtjmXHqa8Jq7V92%2BqH8%2B%2F4YAEIo8Mhcqj%2Beoz%2FzGBkolvXgF6IOnrZhNbEnJALo2AfhOc4TUHdOqXMO76qlVkkZF%2F4ZrQsO3cJpTC7XxZQ;', 'Content-Length': '100', 'Content-Type': 'application/json'}
+
+
+    Body: b'{"moderated_offer_id": "ad08d811-e10b-466b-a96a-0708d9c6fe43", "condition_id": 40268, "quantity": 1}'
+
+
+    

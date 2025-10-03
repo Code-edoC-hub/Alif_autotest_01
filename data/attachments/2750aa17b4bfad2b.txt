@@ -1,0 +1,11 @@
+
+    Status: 200
+
+
+    Headers: {'Date': 'Fri, 03 Oct 2025 15:17:00 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '835', 'Connection': 'keep-alive', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'X-Logging': 'False', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload'}
+
+
+    Body: {"id":"68dfe8eb5127692393fa3445","cart_items":[],"moderated_cart_items":[{"moderated_offer_id":"9bca8653-b27b-4fa3-997f-bcc2c2d0cd2b","item_id":2521499,"slug":"smartfon-apple-iphone-16-pro-max-256-gb-nanosim-esim-desert-titanium-1757757120","images":["https://s3.fortifai.uz/shop/moderation/partner-139/1751371700-Disert.png","https://s3.fortifai.uz/shop/moderation/partner-139/1751371700-дез1.png","https://s3.fortifai.uz/shop/moderation/partner-139/1751371700-дез2.png","https://s3.fortifai.uz/shop/moderation/partner-139/1751371700-дкз3.png"],"name":"Смартфон Apple iPhone 16 Pro Max 256 ГБ (nanoSim+eSim), Desert Titanium","price":1687000000,"old_price":2360000000,"loan_condition":{"id":40246,"commission":75,"duration":24,"merchant_condition_id":40246},"available_loan_conditions":[{"id":40250,"commission":15,"duration":3,"merchant_condition_id":40250},{"id":40247,"commission":25,"duration":6,"merchant_condition_id":40247},{"id":40249,"commission":40,"duration":12,"merchant_condition_id":40249},{"id":40248,"commission":56,"duration":18,"merchant_condition_id":40248},{"id":40246,"commission":75,"duration":24,"merchant_condition_id":40246}],"partner":{"id":139,"name":"JOYBOX","has_credit":true,"cash_sales":false,"has_immediate_purchase":true,"active_delivery":[{"id":26,"partner_id":139,"amount":0,"note":"От 1 дня по Ташкенту. От 3 дней по Узбекистану","note_uz":"Toshkent bo'ylab 1 kundan boshlab. O' zbekiston bo'ylab 3 kundan boshlab","is_active":true,"created_at":"2021-03-12T14:54:11Z","updated_at":"2024-09-04T11:14:31Z"}],"has_alif_mobi_native_payment":true},"quantity":1,"warehouse_quantity":24,"is_visible":true,"in_fulfillment_center":false,"category_name":"Смартфоны Apple ","category_id":853,"parcel_locker_storable":true,"brand_name":"Apple","purchase_restrictions":null}],"total_items_count":1,"total_items_price":1687000000,"delivery_price":0,"total_price":1687000000}
+
+
+    
